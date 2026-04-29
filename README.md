@@ -46,7 +46,7 @@ python evals.py
 
 See [EVALS.md](./EVALS.md) for full rubric, 12 test cases, and scores.
 
-Quick summary: X/12 passing. Known failure modes: very low budgets, 
+Quick summary: 8/12 passing. Known failure modes: very low budgets, 
 occasional missing disclaimer on vague input.
 
 ---
